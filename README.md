@@ -12,7 +12,7 @@ The minimum prerequisites to run this app are:
 
 ## Code Details
 
-* This bot greets the user and looking for the pattern "find the name of #<HEX>" and "find the hex of COLORNAME".
+* This bot greets the user and looking for the pattern "find the name of #HEX" and "find the hex of COLORNAME".
 
 * Extracts the HEX/COLOR NAME value
 
