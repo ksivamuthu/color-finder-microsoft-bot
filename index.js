@@ -26,7 +26,7 @@ server.post('/api/messages', connector.listen());
 
 // Receive messages from the user and respond by echoing each message back (prefixed with 'You said:')
 var bot = new builder.UniversalBot(connector, function (session) {
-  session.send("Say \"find name of #0000\" or \"find hex of green\"");
+  session.send("Say \"find name of #0000\" or \"find hex of green\" or \"what's the color of strawberry\"");
 });
 
 // Say Color Name
