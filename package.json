@@ -1,7 +1,7 @@
 {
-  "name": "emptybot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "color-finder-microsoft-bot",
+  "version": "0.0.1",
+  "description": "Color Finder Microsoft Bot Framework",
   "main": "index.js",
   "dependencies": {
     "azure-storage": "^2.6.0",
@@ -15,6 +15,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "ksivamuthu",
+  "license": "MIT"
 }
